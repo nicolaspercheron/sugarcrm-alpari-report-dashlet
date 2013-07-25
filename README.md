@@ -1,4 +1,4 @@
-AlpariReportDashlet
+Alpari Report Dashlet
 ==============================
 
 This is SugarCRM dashlet that can display the results of the report.
